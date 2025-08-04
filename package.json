@@ -2,6 +2,7 @@
   "name": "pricecalculator",
   "version": "1.0.0",
   "description": "Dev Price Calculator",
+  "homepage": "https://dubbelf34140.github.io/PriceCalculator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
