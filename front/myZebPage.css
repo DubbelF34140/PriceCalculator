@@ -1,0 +1,16 @@
+.api-status {
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      background-color: red;
+      display: inline-block;
+      margin-top: 15px;
+      margin-left: 15px;
+    }
+
+    .api-indicator {
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 9999;
+    }
